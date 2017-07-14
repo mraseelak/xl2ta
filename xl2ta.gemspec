@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "xl2ta"
   spec.version       = Xl2ta::VERSION
   spec.authors       = ["Raseel Mohamed", "Li Wang"]
-  spec.email         = ["raseel.mohamed@nih.gov", 'adamstwl@gmail.com']
+  spec.email         = ["raseel.mohamed@nih.gov", 'adamastwl@gmail.com']
 
   spec.summary       = %q{Convert an excel sheet containing treatment arm to a json}
   spec.description   = %q{This gem converts an excel sheet or a bunch of excel sheets into a json blob that contains all the treatment arms in a format acceptable to Leidos}
